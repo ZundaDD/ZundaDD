@@ -1,16 +1,26 @@
-## Hi there 👋
+# 谨言慎行
 
-<!--
-**ZundaDD/ZundaDD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 给自己打标签
+<ul>
+  <li>抽象</li>
+  <li>音游</li>
+  <li>萌豚</li>
+</ul>
 
-Here are some ideas to get you started:
+## 胖宝宝
+现任胖宝宝是：
+![好胖好可爱](/assets/123694064_p0.png)
+（pid：123694064）
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+上一任是：
+阳夏木蜜柑（陽夏木ミカン）
+
+## 实用领域
+<ol>
+  <li>Unity游戏及拓展开发</li>
+  <li>深度学习去偏研究</li>
+  <li>（待实现）音游相关查询工具制作</li>
+</ol>
+
+## 名称认证
+长谷川蜜柑（Hasekawa Mikan）以及俊达旦旦（ZundaDD）是长期以来受支持的名称，偶尔会使用涼風青葉（Suzukaze Aoba）作为代称，但不具有排他性，辨识度较低。
