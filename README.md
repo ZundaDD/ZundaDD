@@ -21,9 +21,12 @@
 长谷川蜜柑（Hasekawa Mikan）以及俊达旦旦（ZundaDD）是长期以来受支持的名称，偶尔会使用涼風青葉（Suzukaze Aoba）作为代称，但不具有排他性，辨识度较低。
 
 ## 胖宝宝
-现任胖宝宝是：</br>
- <div align="center"><img src="/assets/123694064_p0.png" width = "300" height = "400" alt="好胖好可爱" align=center /> </br>
-（pid：123694064）</div>
+
+ <div align="center">
+   现任胖宝宝是：</br>
+   <img src="/assets/123694064_p0.png" width = "300" height = "400" alt="好胖好可爱" align=center /> </br>
+（pid：123694064）
+ </div>
 
 
 上一任是：
