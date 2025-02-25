@@ -22,7 +22,7 @@
 
 ## 胖宝宝
 现任胖宝宝是：</br>
- <div align="center"><img src="/assets/123694064_p0.png" width = "300" height = "600" alt="好胖好可爱" align=center /></div>
+ <div align="center"><img src="/assets/123694064_p0.png" width = "300" height = "400" alt="好胖好可爱" align=center /></div>
  </br>
 （pid：123694064）
 
